@@ -1,0 +1,1 @@
+var e=e=>new Intl.NumberFormat(`en-IN`,{style:`currency`,currency:`INR`,maximumFractionDigits:0}).format(e),t=e=>e.toLowerCase().replace(/&/g,`and`).replace(/[^a-z0-9]+/g,`-`).replace(/(^-|-$)/g,``);export{t as n,e as t};
