@@ -10,7 +10,6 @@
   },
   "dependencies": {
     "@studio-freight/lenis": "^1.0.42",
-    "@vitejs/plugin-react": "latest",
     "framer-motion": "latest",
     "react": "latest",
     "react-dom": "latest",
@@ -21,6 +20,7 @@
     "weborbit": "latest"
   },
   "devDependencies": {
+    "@vitejs/plugin-react": "^6.0.2",
     "autoprefixer": "latest",
     "postcss": "latest",
     "tailwindcss": "^3.4.17"
